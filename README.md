@@ -113,10 +113,10 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="blank">
+  <a href="https://www.linkedin.com/in/prajwal-ahirrao/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:ahirraoprajwal00@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
